@@ -10,15 +10,13 @@ RecipesPL = {
     Recipe_AddIcePickonSpear = "Zamontuj szpikulec do lodu na włócznię",
     Recipe_AddLetterOpeneronSpear = "Zamontuj nóż kopert na włócznię",
     Recipe_AddMacheteonSpear = "Zamontuj maczetę na włócznię",
-    AddMotionSensorV1ToBomb = "Dodaj czujnik ruchu wz. 1",
-    AddMotionSensorV2ToBomb = "Dodaj czujnik ruchu wz. 2",
-    AddMotionSensorV3ToBomb = "Dodaj czujnik ruchu wz. 3",
+    
     Recipe_AddScalpelonSpear = "Zamontuj skalpel na włócznię",
     Recipe_AddScissorsonSpear = "Zamontuj nożyczki na włócznię",
     Recipe_AddScrewdriveronSpear = "Zamontuj śrubokręt na włócznię",
     Recipe_AddSpoononSpear = "Zamontuj łyżkę na włócznię",
     Recipe_AddTimer = "Zamontuj minutnik",
-	AddTimerToBomb = "Zamontuj minutnik do bomby",
+	
     Recipe_AdvancedMechanics = "Naprawa samochodów sportowych",
     Recipe_ApplyGlaze = "Nałóż szkliwo",
 	Recipe_AttachBreadKnifeToSpear = "Zamontuj nóż do chleba na włócznię",
@@ -52,9 +50,9 @@ RecipesPL = {
     Recipe_CloseUmbrella2 = Złóż parasol",
     Recipe_CloseUmbrella3 = Złóż parasol",
     Recipe_CloseUmbrella4 = Złóż parasol",
-    Recipe_CraftMakeshiftHAMRadio = "Zrób radiostację własnej roboty",
-    Recipe_CraftMakeshiftRadio = "Zrób radio własnej roboty",
-    Recipe_CraftMakeshiftWalkieTalkie = "Zrób walkie-talkie własnej roboty",
+    
+    
+    
     Recipe_CraftSheetRope = "Zrób linę z materiału",
     Recipe_CraftTwine = "Zrób dratwę",
 	Recipe_CreateSpear = "Zrób włócznię",
@@ -72,8 +70,8 @@ RecipesPL = {
     Recipe_DismantleCordlessPhone = "Rozkręć telefon bezprzewodowy",
     Recipe_DismantleDigitalWatch = "Rozkręć zegarek cyfrowy",
     Recipe_DismantleEarbuds = "Rozkręć słuchawki douszne",
-	Recipe_DismantleElectronics = "Rozkręć elektronikę",
-	Recipe_DismantleElectronicsDevice = "Rozkręć urządzenie",
+	
+	
     Recipe_DismantleFlashlight = "Rozkręć latarkę",
     Recipe_DismantleHAMRadio = "Rozkręć radiostację",
     Recipe_DismantleHeadphones = "Rozkręć słuchawki",
@@ -113,7 +111,7 @@ RecipesPL = {
     Recipe_HotDrinkRed = "Zrób gorący napój",
     Recipe_HotDrinkSpiffo = "Zrób gorący napój",
     Recipe_HotDrinkWhite = "Zrób gorący napój",
-	Recipe_InsertBattery = "Włóż baterię",
+	
     Recipe_InsertBatteryIntoDuck = "Włóż baterię do kaczuszki",
     Recipe_InsertBatteryIntoFlashlight = "Włóż baterię do latarki",
 	Recipe_InsertBatteryIntoFlashlight2 = "Włóż baterię do latarki",
@@ -138,7 +136,7 @@ RecipesPL = {
     Recipe_Make4BowlsofStew = "Zrób 4 miski gulaszu",
     Recipe_Make9mmBullets = "Odlej pociski 9 mm",
     Recipe_Make9mmBulletsMold = "Zrób formę do pocisków 9 mm",
-    Recipe_MakeAerosolBomb = "Zrób bombę z aerozolu",
+    
     Recipe_MakeAxe = "Zrób siekierę",
     Recipe_MakeBakingPan = "Zrób blaszkę do ciasta",
     Recipe_MakeBakingTray = "Zrób blachę do pieczenia",
@@ -161,7 +159,7 @@ RecipesPL = {
     Recipe_MakeDoorKnob = "Zrób klamkę do drzwi",
     Recipe_MakeFishingNet = "Zrób pułapkę na ryby",
     Recipe_MakeFishingRod = "Zrób wędkę",
-    Recipe_MakeFlameBomb = "Zrób bombę ogniową",
+    
     Recipe_MakeFliesCure = "Zrób środek na szkodniki",
 	Recipe_MakeFliesCure2 = "Zrób środek na szkodniki",
     Recipe_MakeFliesCure3 = "Zrób środek na szkodniki",
@@ -203,14 +201,14 @@ RecipesPL = {
     Recipe_MakeMetalSheet = "Zrób arkusz blachy",
     Recipe_MakeMetalWalls = "Zrób metalowe ściany",
     Recipe_MakeMildewCure = "Zrób środek na pleśń",
-    Recipe_MakeMolotov = "Zrób koktajl Mołotowa",
+    
     Recipe_MakeMolotovCocktail = "Zrób koktajl Mołotowa",
 	Recipe_MakeMolotovCocktail2 = "Zrób koktajl Mołotowa",
     Recipe_MakeMolotovCocktail3 = "Zrób koktajl Mołotowa",
     Recipe_MakeMortarAndPestle = "Zrób moździerz i tłuczek",
     Recipe_MakeNails = "Zrób gwoździe",
     Recipe_MakeNewspaperHat = "Zrób czapkę z gazety",
-    Recipe_MakeNoiseMaker = "Zrób wabik dźwiękowy",
+    
     Recipe_MakePan = "Zrób patelnię",
     Recipe_MakePancake = "Zrób naleśnik",
     Recipe_MakePaperclips = "Zrób spinacze do papieru",
@@ -218,10 +216,7 @@ RecipesPL = {
     Recipe_MakePipebomb = "Zrób bombę rurową",
     Recipe_MakePlantainPoultice = "Zrób okład z babki zwyczajnej",
     Recipe_MakePotOfSoup = "Zrób garnek zupy",
-    Recipe_MakeRemoteControllerV1 = "Zrób pilot zdalny wz. 1",
-    Recipe_MakeRemoteControllerV2 = "Zrób pilot zdalny wz. 2",
-    Recipe_MakeRemoteControllerV3 = "Zrób pilot zdalny wz. 3",
-    Recipe_MakeRemoteTrigger = "Zrób zdalny detonator",
+    
     Recipe_MakeRoastingPan = "Zrób brytfannę",
     Recipe_MakeSalad = "Zrób sałatkę",
     Recipe_MakeSandwich = "Zrób kanapkę",
@@ -234,7 +229,7 @@ RecipesPL = {
     Recipe_MakeShovel = "Zrób łopatę",
     Recipe_MakeSledgehammer = "Zrób młot",
     Recipe_MakeSmallMetalSheet = "Zrób mały arkusz blachy",
-    Recipe_MakeSmokeBomb = "Zrób bombę dymną",
+    
     Recipe_MakeSnareTrap = "Zrób pułapkę – sidła",
     Recipe_MakeSplint = "Zrób szynę usztywniającą",
     Recipe_MakeSpoon = "Zrób łyżkę",
@@ -250,7 +245,7 @@ RecipesPL = {
     Recipe_MakeSutureNeedleHolder = "Zrób imadło chirurgiczne",
     Recipe_MakeTentKit = "Zrób zestaw namiotowy",
     Recipe_MakeThree-LogStack = "Zwiąż 3 bale liną",
-    Recipe_MakeTimer = "Zrób minutnik",
+    
     Recipe_MakeTinFoilHat = "Zrób czapkę z folii aluminiowej",
 	Recipe_MakeTortillaChips = "Pokrój torille",
     Recipe_MakeTongs = "Zrób obcęgi",
@@ -387,7 +382,7 @@ RecipesPL = {
     Recipe_ReclaimScrewdriverfromSpear = "Zdejmij śrubokręt z włóczni",
     Recipe_ReclaimSpoonfromSpear = "Zdejmij łyżkę z włóczni",
     Recipe_RefillBlowTorch = "Napełnij palnik gazowy",
-    Recipe_RemoveBattery = "Wyjmij baterię",
+    
     Recipe_Rice = "Ryż",
     Recipe_RicePan = "Rondel ryżu",
     Recipe_RicePot = "Garnek ryżu",
@@ -1079,6 +1074,58 @@ RecipesPL = {
 	Recipe_SharpenJawbone = "Naostrz żuchwę",
 	MakeLargeBoneBead = "Wyrzeźb duży koralik z kości",
     Recipe_MakeLargeBoneBeads = "Wyrzeźb 4 duże koraliki z kości",
+	
+	--Naczynia / Dishes
+	Forge_Spoons = "Wykuj łyżki",
+	Forge_Baking_Pan = "Wykuj blaszkę do ciasta",
+	Forge_Baking_Tray = "Wykuj blachę do pieczenia",
+	Forge_Cooking_Pot = "Wykuj kociołek",
+	Forge_Cup = "Wykuj kubek",
+	Forge_Fine_Butter_Knives = "Wykuj dobre noże do masła",
+	Forge_Fine_Forks = "Wykuj dobre widelce",
+	Forge_Fine_Spoons = "Wykuj dobre łyżki",
+	Forge_Forks = "Wykuj widelce",
+	Forge_Frying_Pan = "Wykuj patelnię",
+	Forge_Goblet = "Wykuj kielich",
+	Forge_Kettle = "Wykuj imbryk",
+	Forge_Precious_Metal_Butter_Knives = "Wykuj cenne noże do masła",
+	Forge_Precious_Metal_Forks = "Wykuj cenne widelce",
+	Forge_Precious_Metal_Spoons = "Wykuj cenne łyżki",
+	Forge_Roasting_Pan = "Wykuj brytfannę",
+	Forge_Saucepan = "Wykuj rondel",
+	
+	--Elektronika / Electronic
+	Recipe_DismantleElectronics = "Rozmontuj elektronikę",
+	Recipe_DismantleElectronicsDevice = "Rozmontuj urządzenie elektroniczne",
+	Recipe_RemoveBattery = "Wyjmij baterię",
+	Recipe_InsertBattery = "Włóż baterię",
+	Recipe_DismantleMiscElectronics = "Rozmontuj przedmiot elektroniczny",
+	DismantleImprovisedLighter = "Rozmontuj prowizoryczną zapalniczkę",
+	Recipe_MakeImprovisedFlashlight = "Wykonaj prowizoryczną latarkę",
+	MakeImprovisedFlashlight = "Wykonaj prowizoryczną latarkę",
+	Recipe_MakeImprovisedLantern = "Wykonaj prowizoryczną latarnię elektryczną",
+	MakeImprovisedLantern = "Wykonaj prowizoryczną latarnię elektryczną",
+	MakeImprovisedLighter = "Wykonaj prowizoryczną zapalniczkę",
+	AddTimerToBomb = "Zamontuj minutnik do bomby",
+	Recipe_MakeSmokeBomb = "Wykonaj bombę dymną",
+	Recipe_MakeAerosolBomb = "Wykonaj bombę z aerozolu",
+	Recipe_MakeMolotov = "Wykonaj koktajl Mołotowa",
+	Recipe_MakeTimer = "Wykonaj minutnik",
+	Recipe_CraftMakeshiftRadio = "Wykonaj radio własnej roboty",
+	AddMotionSensorV1ToBomb = "Zamontuj czujnik ruchu wz. 1",
+    AddMotionSensorV2ToBomb = "Zamontuj czujnik ruchu wz. 2",
+    AddMotionSensorV3ToBomb = "Zamontuj czujnik ruchu wz. 3",
+	Recipe_MakePipeBomb = "Wykonaj bombę rurową",
+	Recipe_MakeFlameBomb = "Wykonaj bombę ogniową",
+	Recipe_MakeRemoteControllerV1 = "Wykonaj zdalny pilot wz. 1",
+    Recipe_MakeRemoteControllerV2 = "Wykonaj zdalny pilot wz. 2",
+    Recipe_MakeRemoteControllerV3 = "Wykonaj zdalny pilot wz. 3",
+    Recipe_MakeRemoteTrigger = "Wykonaj zdalny detonator",
+	Recipe_CraftMakeshiftHAMRadio = "Wykonaj radiostację własnej roboty",
+	Recipe_MakeNoiseMaker = "Wykonaj wabik dźwiękowy",
+	Recipe_CraftMakeshiftWalkieTalkie = "Wykonaj krótkofalówkę własnej roboty",
+	
+	
 	
 	
 	
