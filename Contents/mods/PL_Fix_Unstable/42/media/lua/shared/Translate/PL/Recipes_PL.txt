@@ -802,7 +802,7 @@ RecipesPL = {
     Recipe_ForgeScrapKnife = "Forge Scrap Metal Knife",
     Recipe_ForgeScrapShortsword = "Forge Scrap Metal Shortsword",
     Recipe_ForgeScrapSword = "Forge Scrap Metal Sword",
-    Recipe_MakeDullBoneKnife = "Carve Blunt Bone Knife",
+    
     Recipe_MakeBoneSpoon = "Carve Bone Spoon",
     Recipe_MakeBoneFork = "Carve Bone Fork",
     Recipe_MakeBoneSewingNeedle = "Carve Bone Sewing Needle",
@@ -998,6 +998,38 @@ RecipesPL = {
 	Recipe_MakeFourLogStack = "Zwiąż 4 kłody",
 	UnbundleFirewood = "Rozwiąż drewno na opał",
 	MakeStagHeadTrophy = "Zrób trofeum z głowy jelenia"
+	CastSteelIngot = "Formuj sztabkę stali",
+	ForgeLongSpearHead = "Wykuj długie ostrze włóczni",
+	Forge_ShortSwordBlade = "Wykuj ostrze krótkiego miecza",
+	
+	-- Pancerz / Armor
+	Assemble_Articulated_Shin_Armor = "Złóż przegubowy metalowy nagolennik",
+	Assemble_Articulated_Thigh_Armor = "Złóż przegubową metalową osłonę uda",
+	Assemble_Forearm_Armor = "Złóż metalową osłonę przedramienia",
+	Assemble_FullMetal_Forearm_Armor = "Złóż pełną metalową osłonę przedramienia",
+	Assemble_Simple_Shoulder_Armor = "Złóż metalowy naramiennik",
+	Assemble_Thigh_Armor = "Złóż metalową osłonę uda",
+	Assemble_Shin_Armor = "Złóż metalowy nagolennik",
+	Assemble_Shoulder_Armor_Left = "Złóż przegubowy metalowy naramiennnik - Lewy",
+	Assemble_Shoulder_Armor_Right = "Złóż przegubowy metalowy naramiennnik - Prawy",
+	Forge_CoatOfPlates = "Złóż płytowy kaftan",
+	Forge_Codpiece = "Złóż metalowy mieszek",
+	Forge_Armored_Gloves = "Złóż metalowe rękawice bez palców",
+	Forge_Body_Armor = "Złóż metalowy kaftan",
+	Forge_Metal_Helmet= "Złóż prymitywny metalowy hełm",
+	Forge_Metal_Mask = "Złóż metalową maskę",
+	Forge_Gold_Mask = "Złóż złotą maskę",
+	Forge_Silver_Mask = "Złóż srebrną maskę",
+	Forge_Gorget = "Złóż metalową osłonę szyi",
+	
+	
+	-- Obróbka drewna / 
+	Recipe_CarveSmallHandlesFromPlank = "Wyrzeźb 12 małych rękojeści",
+	Recipe_CarveSmallHandle = "Wyrzeźb małą rękojeść",
+	Recipe_Carve2SmallHandles = "Wyrzeźb 2 małe rękojeści",
+	Recipe_Carve4SmallHandles = "Wyrzeźb 4 małe rękojeści",
+	Recipe_Carve8SmallHandles = "Wyrzeźb 8 małych rękojeści",
+	Recipe_MakeDullBoneKnife = "Wyrzeźb tępy kościany nóż",
 	
 	
 	

@@ -3432,6 +3432,32 @@ ItemName_PL = {
     ItemName_Base.BalsamicVinegar = "Ocet balsamiczny",
     ItemName_Base.BandageBox = "Pudełko bandarzy",
     ItemName_Base.Bandeau_Burlap = "Opaska z juty",
+	
+	--Pancerz / Armor
+	ItemName_Base.ShinKneeGuard_L_Metal = "Przegubowy metalowy nagolennik",
+	ItemName_Base.ShinKneeGuard_R_Metal = "Przegubowy metalowy nagolennik",
+	ItemName_Base.Thigh_ArticMetal_L = "Przegubowa metalowa osłona uda",
+	ItemName_Base.Thigh_ArticMetal_R = "Przegubowa metalowa osłona uda",
+	ItemName_Base.Vambrace_Left = "Metalowa osłona przedramienia",
+	ItemName_Base.Vambrace_Right = "Metalowa osłona przedramienia",
+	ItemName_Base.Vambrace_FullMetal_Left = "Pełna metalowa osłona przedramienia",
+	ItemName_Base.Vambrace_FullMetal_Right = "Pełna metalowa osłona przedramienia",
+	ItemName_Base.Shoulderpad_Metal_L = "Metalowy naramiennik",
+	ItemName_Base.Shoulderpad_Metal_R = "Metalowy naramiennik",
+	ItemName_Base.ThighMetal_L = "Metalowa osłona uda",
+	ItemName_Base.ThighMetal_R = "Metalowa osłona uda",
+	ItemName_Base.Greave_Left = "Metalowy nagolennik",
+	ItemName_Base.Greave_Right = "Metalowy nagolennik",
+	ItemName_Base.Shoulderpad_Articulated_L_Metal = "Przegubowy metalowy naramiennik - Lewy",
+	ItemName_Base.Shoulderpad_Articulated_R_Metal = "Przegubowy metalowy naramiennik - Prawy",
+	ItemName_Base.Cuirass_CoatOfPlates = "Płytowy kaftan",
+	ItemName_Base.Codpiece_Metal = "Metalowy mieszek",
+	ItemName_Base.Gloves_MetalArmour = "Metalowe rękawice bez palców",
+	ItemName_Base.Cuirass_Metal = "Metalowy kaftan",
+	ItemName_Base.Hat_MetalHelmet = "Prymitywny metalowy hełm",
+	ItemName_Base.Hat_HockeyMask_Metal = "Metalowa maska",
+	ItemName_Base.Gorget_Metal = "Metalowa osłona szyi",
+	
     
 	
 }
