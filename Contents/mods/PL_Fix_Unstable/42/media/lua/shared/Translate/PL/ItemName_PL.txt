@@ -60,7 +60,7 @@ ItemName_PL = {
     ItemName_Base.AssaultRifle2 = "Karabin M14",
     ItemName_Base.Avocado = "Awokado",
     ItemName_Base.Axe = "Siekiera strażacka",
-    ItemName_Base.AxeStone = "Siekierka kamienna",
+    ItemName_Base.AxeStone = "Kamienna siekierka",
     ItemName_Base.BackgammonBoard = "Plansza do trytraka",
     ItemName_Base.BadmintonRacket = "Rakieta do badmintona",
     ItemName_Base.Bag_ALICEpack = "Plecak wyprawowy",
@@ -1013,7 +1013,7 @@ ItemName_PL = {
     ItemName_Base.Ham = "Szynka",
     ItemName_Base.HamSlice = "Plasterek szynki",
     ItemName_Base.Hammer = "Młotek",
-    ItemName_Base.HammerStone = "Młotek kamienny",
+    ItemName_Base.HammerStone = "Kamienny młotek",
     ItemName_Base.HandAxe = "Siekierka",
     ItemName_Base.HandFork = "Widelec ogrodniczy",
     ItemName_Base.HandScythe = "Sierp",
@@ -1416,8 +1416,7 @@ ItemName_PL = {
     ItemName_Base.NecklaceLong_SilverDiamond = "Naszyjnik – długi, srebrny, brylant",
     ItemName_Base.NecklaceLong_SilverEmerald = "Naszyjnik – długi, srebrny, szmaragd",
     ItemName_Base.NecklaceLong_SilverSapphire = "Naszyjnik – długi, srebrny, szafir",
-    ItemName_Base.Necklace_BoarTusk = "Naszyjnik z kłem",
-    ItemName_Base.Necklace_BoarTusk_Multi = "Naszyjnik z kłami",
+    
 	ItemName_Base.Necklace_Choker = "Naszyjnik – choker, czarny",
     ItemName_Base.Necklace_Choker_Amber = "Naszyjnik – choker, bursztyn",
     ItemName_Base.Necklace_Choker_Diamond = "Naszyjnik – choker, brylant",
@@ -3175,7 +3174,7 @@ ItemName_PL = {
 	ItemName_Base.LargeKnifeBlade = "Ostrze dużego noża",
 	ItemName_Base.MasonsChisel = "Dłuto murarskie",
     ItemName_Base.MasonsTrowel = "Kielnia murarska",
-    ItemName_Base.MasonsTrowel_Wood = "Drewniana kielnia",
+    
 	
 	ItemName_Base.Matchbox = "Pudełko zapałek",
     ItemName_Base.MeatCleaverBlade = "Ostrze tasaka",
@@ -3223,8 +3222,7 @@ ItemName_PL = {
 	ItemName_Base.Clay = "Glina",
 	
 	
-	ItemName_Base.WoodenSpoon = "Drewniana łyżka",
-    ItemName_Base.WoodenStick2 = "Drewniany drąg",
+	
     ItemName_Base.WoodenStick_Broken = "Drewniany drąg - złamany",
     ItemName_Base.WoodenStick_Broken_Nails = "Drewniany drąg nabity gwoźdźmi - złamany",
     ItemName_Base.WoodenStick_Can = "Drewniany drąg wzmocniony puszką",
@@ -3457,6 +3455,61 @@ ItemName_PL = {
 	ItemName_Base.Hat_MetalHelmet = "Prymitywny metalowy hełm",
 	ItemName_Base.Hat_HockeyMask_Metal = "Metalowa maska",
 	ItemName_Base.Gorget_Metal = "Metalowa osłona szyi",
+	
+	
+	--Montaż /
+	ItemName_Base.StoneKnifeLong = "Długi kamienny nóż",
+	ItemName_Base.CrudeKnife = "Prymitywny metalowy nóż",
+	ItemName_Base.LongCrudeKnife = "Długi prymitywny metalowy nóż",
+	ItemName_Base.StoneAxeLarge = "Duża kamienna siekiera",
+	ItemName_Base.StoneMaul = "Kamienny młot",
+	ItemName_Base.Mace = "Maczuga",
+	
+	
+	--Obróbka drewna /
+	ItemName_Base.ClayTool_Carved = "Szpatułka do gliny",
+	ItemName_Base.KnappingTool = "Narzędzie do kształtowania kamienia",
+	ItemName_Base.CrudeWoodenTongs = "Prymitywne drewniane szczypce",
+	ItemName_Base.MasonsTrowel_Wood = "Drewniana kielnia",
+	ItemName_Base.SmallHandle = "Mała rękojeść",
+	ItemName_Base.WoodenSpoon = "Drewniana łyżka",
+    ItemName_Base.WoodenStick2 = "Drewniany drąg",
+	ItemName_Base.DullBoneKnife = "Tępy kościany nóż",
+	ItemName_Base.BaseballBat_Crafted = "Ręcznie wykonany kij bejsbolowy",
+	ItemName_Base.Fork_Bone = "Widelec z kości",
+	ItemName_Base.Needle_Bone = "Igła z kości",
+	ItemName_Base.Spoon_Bone = "Łyżka z kości",
+	ItemName_Base.HatchetHead_Bone = "Głowica topora wojennego z kości",
+	ItemName_Base.BucketCarved = "Wyrzeźbione wiadro",
+	ItemName_Base.Goblet_Wood = "Drewniany kielich",
+	ItemName_Base.KnittingNeedles_Bone = "Druty dziewiarskie z kości",
+	ItemName_Base.KnittingNeedles_Wood = "Druty dziewiarskie z drewna",
+	ItemName_Base.SmokingPipe = "Fajka",
+	ItemName_Base.ShortBat = "Krótka pałka",
+	ItemName_Base.WoodenFork = "Drewniany widelec",
+	ItemName_Base.SpadeWood = "Drewniana szpatułka",
+	ItemName_Base.NecklaceLong_Teeth = "Długi naszyjnik z zębów",
+	ItemName_Base.Earring_BoarTusk = "Kolczyki ze świńskich kłów",
+	ItemName_Base.Necklace_BoarTusk = "Naszyjnik ze świńskim kłem",
+    ItemName_Base.Necklace_BoarTusk_Multi = "Naszyjnik ze świńskimi kłami",
+	ItemName_Base.Necklace_Teeth = "Naszyjnik z zębów",
+	ItemName_Base.SharpBone_Long = "Długa ostra kość",
+	ItemName_Base.SharpBoneFragment = "Ostry kawałek kości",
+	ItemName_Base.BoneBead_Large = "Duży koralik z kości",
+	
+	
+	
+	
+	
+	
+	
+	ItemName_Base.StoneBlade = "Kamienne ostrze",
+	ItemName_Base.StoneBladeLong = "Długie kamienne ostrze",
+	ItemName_Base.CrudeBlade = "Prymitywne metalowe ostrze",
+	ItemName_Base.LongCrudeBlade = "Długie prymitywne metalowe ostrze",
+	
+	
+	
 	
     
 	

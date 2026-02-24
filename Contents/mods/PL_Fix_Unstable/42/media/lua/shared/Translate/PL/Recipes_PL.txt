@@ -239,7 +239,7 @@ RecipesPL = {
     Recipe_MakeSplint = "Zrób szynę usztywniającą",
     Recipe_MakeSpoon = "Zrób łyżkę",
     Recipe_MakeSquidCalamari = "Zrób kałamarnicowe talarki",
-    Recipe_MakeStake = "Zrób kołek",
+    
     Recipe_MakeStickTrap = "Zrób pułapkę na ptaki",
     Recipe_MakeStoneAxe = "Zrób kamienną siekierkę",
     Recipe_MakeStoneHammer = "Zrób kamienny młotek",
@@ -721,8 +721,7 @@ RecipesPL = {
     MakeTireShoulderArmorLeft = "Make Tire Shoulder Armor - Left",
     Recipe_MakeTireShoulderArmorRight = "Make Tire Shoulder Armor - Right",
     Recipe_MakeTireThighArmor = "Make Tire Thigh Armor",
-    MakeLargeBoneBead = "Wyrzeźb duży koralik z kości",
-    Recipe_MakeLargeBoneBeads = "Wyżeźb 4 duże koraliki z kości",
+    
     Recipe_MakeBoneBodyArmor = "Make Bone Body Armor",
     Recipe_MakeBoneForearmArmor = "Make Bone Forearm Armor",
     Recipe_MakeBoneShinArmor = "Make Bone Shin Armor",
@@ -760,13 +759,13 @@ RecipesPL = {
     Recipe_RechargeFilters = "Recharge Filters",
     Recipe_MakeLeatherForearmArmor = "Make Leather Forearm Armor",
     Recipe_BoneSpikeClub = "Bone-Spike Club",
-    Recipe_MakeBoneHatchetHead = "Carve Bone War Hatchet Head",
+    
     Recipe_MakeJawboneAxe = "Zrób topór z żuchwy",
     Recipe_MakeJawboneClub = "Zrób maczugę z żuchwy",
     Recipe_MakeBoneClub = "Zrób maczugę z kości",
-    SharpenBone = "Naostrz kość",
-    Recipe_SharpenLongBone = "Naostrz długą kość",
-    Recipe_SharpenJawbone = "Naostrz żuchwę",
+    
+    
+    
     Recipe_SmashBone = "Zmiażdż kość",
     Recipe_SmashJawbone = "Zmiażdż żuchwę",
     Recipe_SmashCowSkull = "Zmiażdż czaszkę krowy",
@@ -785,8 +784,8 @@ RecipesPL = {
     Recipe_MakeSawbladePlank = "Make Sawblade Plank",
     Recipe_MakeSawbladeTableLeg = "Make Sawblade Table Leg",
     Recipe_MakeSpadeHeadCudgel = "Make Spade Head Cudgel",
-    Recipe_MakeBoneFishhook = "Carve Bone Fishing Hook",
-    Recipe_MakeBoneSewingNeedle = "Carve Bone Sewing Needle",
+    
+    
     Recipe_MakePrimitiveScythe = "Make Primitive Scythe",
     Recipe_MakeStoneAxeHead = "Make Stone Axe Head",
     Recipe_MakeStoneChisel = "Knap Stone Chisel",
@@ -794,7 +793,7 @@ RecipesPL = {
     Recipe_MakeStoneMaulHead = "Knap Stone Maul Head",
     MakeStoneBlade = "Knap Stone Blade",
     Recipe_MakeLongStoneBlade = "Knap Long Stone Blade",
-    Recipe_MakeCrudeKnife = "Assemble Crude Knife",
+    
     Recipe_MakeBlockBludgeon = "Make Block Bludgeon",
     Recipe_MakeScrapKnife = "Make Scrap Metal Knife",
     Recipe_MakeScrapShortsword = "Make Scrap Metal Shortsword",
@@ -803,15 +802,15 @@ RecipesPL = {
     Recipe_ForgeScrapShortsword = "Forge Scrap Metal Shortsword",
     Recipe_ForgeScrapSword = "Forge Scrap Metal Sword",
     
-    Recipe_MakeBoneSpoon = "Carve Bone Spoon",
-    Recipe_MakeBoneFork = "Carve Bone Fork",
+    
+    
     Recipe_MakeBoneSewingNeedle = "Carve Bone Sewing Needle",
     Recipe_MakeBoneFishingHook = "Carve Bone Fishing Hook",
     Recipe_BoneSpikeWeapon = "Bone Spike Weapon",
-    Recipe_CarveWoodenSpoon = "Carve Wooden Spoon",
-    Recipe_CarveWoodenFork = "Carve Wooden Fork",
-    Recipe_CarveLongHandle = "Carve Large Handle",
-    Recipe_CarveMediumHandle = "Carve Medium Handle",
+    
+    
+    
+    
     Recipe_CarveMediumHandles = "Carve 4 Medium Handles",
 	
 	
@@ -878,15 +877,11 @@ RecipesPL = {
 	AssembleMace = "Złóż maczugę",
 	AssembleStoneMace = "Złóż kamienną maczugę",
 	
-	DismantleBlade = "Rozłóż ostrze",
-	DismantleShortImplement = "Rozłóż krótkie narzędzie",
-	DismantleLongImplement = "Rozłóż długie narzędzie",
-	DismantleLongerImplement = "Rozłóż bardzo długie narzędzie",
-	DismantleGardenImplement = "Rozłóż narzędzie ogrodnicze",
 	
-	GetLongStick = "Odzyskaj długi kij",
+	
+	
 	MakeCrudeStoneAxe = "Zrób prymitywną kamienną siekierke",
-	Recipe_MakeLargeStoneAxe = "Zrób dużą kamienną siekierę",
+	
 	Recipe_MakeStoneMaul = "Zrób kamienny młot",
 	
 	CastBenchAnvil = "Formuj kowadło stołowe",
@@ -1023,6 +1018,19 @@ RecipesPL = {
 	Forge_Gorget = "Złóż metalową osłonę szyi",
 	
 	
+	-- Montaż 
+	Recipe_MakeCrudeKnife = "Złóż prymitywny nóż",
+	Recipe_ReclaimFromSpear = "Rozłóż włócznię",
+	GetLongStick = "Odzyskaj długi kij",
+	DismantleLongImplement = "Rozłóż długie narzędzie",
+	DismantleShortImplement = "Rozłóż krótkie narzędzie",
+	DismantleLongerImplement = "Rozłóż bardzo długie narzędzie",
+	DismantleGardenImplement = "Rozłóż narzędzie ogrodnicze",
+	DismantleBlade = "Rozłóż ostrze",
+	Recipe_MakeLargeStoneAxe = "Zrób dużą kamienną siekierę",
+	
+	
+	
 	-- Obróbka drewna / 
 	Recipe_CarveSmallHandlesFromPlank = "Wyrzeźb 12 małych rękojeści",
 	Recipe_CarveSmallHandle = "Wyrzeźb małą rękojeść",
@@ -1030,6 +1038,47 @@ RecipesPL = {
 	Recipe_Carve4SmallHandles = "Wyrzeźb 4 małe rękojeści",
 	Recipe_Carve8SmallHandles = "Wyrzeźb 8 małych rękojeści",
 	Recipe_MakeDullBoneKnife = "Wyrzeźb tępy kościany nóż",
+	CarveClaySculptingTool = "Wyrzeźb szpatułkę do gliny",
+	CarveKnappingTools = "Wyrzeźb narzędzie do kształtowania kamienia",
+	CarveLongStick = "Wyrzeźb długi kij",
+	Recipe_MakeCrudeWoodenTongs = "Wyrzeźb prymitywne drewniane szczypce",
+	Recipe_CarveSpear = "Wyrzeźb włócznię",
+	CarveTrowel = "Wyrzeźb drewnianą kielnię",
+	Recipe_CarveStick = "Wyrzeźb drewniany drąg",
+	Recipe_CarveWoodenSpoon = "Wyrzeźb drewnianą łyżkę",
+	Recipe_MakeStake = "Wyrzeźb kołek",
+	Recipe_CarveMediumHandle = "Wyrzeź rękojeść",
+	Recipe_CarveMediumHandlesFromPlank = "Wyrzeźb 6 rękojeści",
+	CarveBat = "Wyrzeźb kij bejsbolowy",
+	MakeBoneAwl = "Wyrzeźb szydło z kości",
+	Recipe_MakeBoneFishhook = "Wyrzeźb haczyk na ryby z kości",
+	Recipe_MakeBoneFork = "Wyrzeźb widelec z kości",
+	Recipe_MakeBoneSewingNeedle = "Wyrzeźb igłę z kości",
+	Recipe_MakeBoneSpoon = "Wyrzeźb łyżkę z kości",
+	Recipe_MakeBoneHatchetHead = "Wyrzeźb głowicę topora wojennego z kości",
+	CarveBucket = "Wyrzeźb wiadro",
+	CarveCuttingBoards = "Wyrzeźb deski do krojenia",
+	CarveDice = "Wyrzeźb kostkę do gry",
+	CarveFleshingTool = "Wyrzeźb mizdrownik",
+	CarveGoblets = "Wyrzeźb drewniane kielichy",
+	CarveKnittingNeedles = "Wyrzeźb druty dziewiarskie",
+	Recipe_CarveLongHandle = "Wyrzeźb dużą rękojeść",
+	CarvePipe = "Wyrzeźb fajkę",
+	CarvePlank = "Wyrzeźb deskę",
+	CarveShortBat = "Wyrzeźb krótką pałkę",
+	CarveWhistle = "Wyrzeźb gwizdek",
+	Recipe_CarveWoodenFork = "Wyrzeźb drewniany widelec",
+	CarveWoodenSpade = "Wyrzeźb drewnianą szpatułkę",
+	MakeLongToothNecklace = "Zrób długi naszyjnik z zębów",
+	MakePigTuskEarrings = "Zrób kolczyki ze świńskich kłów",
+	MakePigTuskNecklace = "Zrób naszyjnik ze świńskiego kła",
+	MakePigTusksNecklace = "Zrób naszyknik ze świńskimi kłami",
+	MakeToothNecklace = "Zrób naszyjnik z zębów",
+	Recipe_SharpenLongBone = "Naostrz długą kość",
+	SharpenBone = "Naostrz kość",
+	Recipe_SharpenJawbone = "Naostrz żuchwę",
+	MakeLargeBoneBead = "Wyrzeźb duży koralik z kości",
+    Recipe_MakeLargeBoneBeads = "Wyrzeźb 4 duże koraliki z kości",
 	
 	
 	
