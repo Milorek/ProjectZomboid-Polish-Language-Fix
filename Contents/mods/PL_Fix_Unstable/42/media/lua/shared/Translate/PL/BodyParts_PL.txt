@@ -1,0 +1,13 @@
+BodyParts_EN = {
+    BODYPART_PELVIS = "Miednica",
+    BODYPART_SPINE = "Kręgosłup",
+    BODYPART_HEAD = "Głowa",
+    BODYPART_LEFT_UPPER_LEG = "Lewa górna część nogi",
+    BODYPART_LEFT_LOWER_LEG = "Lewa dolna część nogi",
+    BODYPART_RIGHT_UPPER_LEG = "Prawa górna część nogi",
+    BODYPART_RIGHT_LOWER_LEG = "Prawa dolna część nogi",
+    BODYPART_LEFT_UPPER_ARM = "Lewa górna część ramienia",
+    BODYPART_LEFT_LOWER_ARM = "Lewa dolna część ramienia",
+    BODYPART_RIGHT_UPPER_ARM = "Prawa górna część ramienia",
+    BODYPART_RIGHT_LOWER_ARM = "Prawa dolna część ramienia",
+}

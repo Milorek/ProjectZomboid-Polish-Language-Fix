@@ -1,0 +1,8 @@
+version=1
+id=3659270155
+title=Polish Language Fix
+description=Mod naprawia polskie znaki i tłumaczenie.
+description=
+description=W trakcie budowy. Jeżeli znajdziesz błąd lub brak w tłumaczeniu daj znać.
+tags=Build 42;Interface;Language/Translation
+visibility=public
