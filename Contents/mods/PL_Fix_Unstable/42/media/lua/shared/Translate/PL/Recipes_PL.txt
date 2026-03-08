@@ -1216,13 +1216,22 @@ RecipesPL = {
 	Recipe_MakeStoneBladeScythe = "Wytwórz kosę z kamiennym ostrzem",
 	Recipe_MakeStoneChisel = "Wytwórz kamienne dłuto",
 	Recipe_MakeStoneDrill = "Wytwórz kamiene wiertło",
-	Recipe_MakeStoneMaulHead = "Wytwórz kamienną głownie młota",
+	Recipe_MakeStoneMaulHead = "Wytwórz kamienną głownię młota",
 	MakeStoneBladeSaw = "Wytwórz kamienną piłę",
 	RemakeLongStoneBlade = "Skróć długie kamienne ostrze",
-    
-    
-    
-    
+	
+	--Kamieniarstwo / 
+	Make_Stones_from_Large_Stone = "Rozbij duży kamień",
+	Make_Stone_Block_from_Stone = "Wytwórz kamienną cegłę",
+    Recipe_MakeBucketOfClayCement = "Wymieszaj wiadro gliny z piaskiem",
+	Recipe_MakeBucketOfClayCementFromGrass = "Wymieszaj wiadro gliny z trawą",
+	Recipe_MakeBucketOfConcrete = "Wymieszaj wiadro z betonem",
+    Recipe_MakeLargeStoneAxeHead2 = "Wytwórz dużą kamienną głownię topora",
+    Recipe_MakeStoneMaulHead2 = "Wytwórz kamienną głownię młota",
+    Make_Small_Stone_Wheel = "Wytwórz małe kamienne koło",
+	Make_Stone_Anvil = "Wytwórz kamienne kowadło",
+	MakeStoneMaceHead = "Wytwórz kammieną głownię maczugi",
+	Make_Stone_Wheel = "Wytwórz kammiene koło",
     
 	
 

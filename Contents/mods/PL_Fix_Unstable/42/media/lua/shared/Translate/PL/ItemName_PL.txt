@@ -3560,9 +3560,13 @@ ItemName_PL = {
 	ItemName_Base.StoneMaulHead = "Kamienna głownia młota",
 	ItemName_Base.Saw_Flint = "Kamienna piła",
 	
-	
-	
-	
+	--Kamieniarstwo / 
+	ItemName_Base.StoneBlock = "Kamienna cegła",
+	ItemName_Base.BucketClayCement = "Wiadro glinianej zaprawy",
+	ItemName_Base.StoneWheel = "Kamienne koło",
+	ItemName_Base.StoneWheelSmall = "Małe kamienne koło",
+	ItemName_Base.StoneAnvil = "Kamienne kowadło",
+	ItemName_Base.StoneMaceHead = "Kamienna głownia maczugi",
 	
 	
 	
