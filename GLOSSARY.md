@@ -25,6 +25,7 @@ Ten dokument zawiera ustandaryzowane nazwy, których używam w modyfikacji, aby 
 | Handle | Rękojeść | |
 | Improvised | Prowizoryczne | |
 | Make | Wykonaj | |
+| Melt | Przetop | |
 | Precious | Cenne | |
 | Ripple | Odziarnij | | 
 | Rippled | Odziarniony | |

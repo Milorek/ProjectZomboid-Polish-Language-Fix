@@ -1201,6 +1201,17 @@ RecipesPL = {
 	WeaveCloth = "Tkaj materiał",
 	Recipe_MakeMildewCure = "Zrób środek na pleśń",
 	
+	--Szklarstwo / Glassmaking
+	MeltGlass = "Przetop szkło",
+	MeltSand = "Przetop piasek",
+	MakeChampagneGlass = "Wytwórz kieliszek do szampana",
+	MakeDrinkingGlass = "Wytwórz szklankę",
+	MakeGlassBottle = "Wytwórz szklaną butelkę",
+	MakeGlassJar = "Wytwórz słoik",
+	MakeGlassPanel = "Wytwórz szybę",
+	MakeLanternGlass = "Wytwórz szkło latarni",
+	MakeMirror = "Wytwórz lusterko",
+	MakeWineGlass = "Wytwórz kieliszek do wina",
 	
 	
 
