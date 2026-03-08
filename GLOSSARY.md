@@ -8,6 +8,7 @@ Ten dokument zawiera ustandaryzowane nazwy, których używam w modyfikacji, aby 
 | :---- | :---- | :---- |
 | Articulated | Przegubowy| |
 | Assemble | Złóź | Pancerz|
+|Broadleaf Plantain| Babka| Roślina|
 | Carve | Wyrzeźb | |
 | Cast | Formuj | |
 | Codpiece | Mieszek | Ochraniacz krocza |
@@ -25,8 +26,14 @@ Ten dokument zawiera ustandaryzowane nazwy, których używam w modyfikacji, aby 
 | Improvised | Prowizoryczne | |
 | Make | Wykonaj | |
 | Precious | Cenne | |
+| Ripple | Odziarnij | | 
+| Rippled | Odziarniony | |
 | Saucepan | Rondel | | 
+| Scutch Fibre | Wytrzep włukno | | 
 | Shin Armor | Nagolennnik|
 | Shoulder Armor | Naramiennik|
+| Spin | Prządź | |
+| Tan | Garbuj | |
 | Thigh Armor | Osłona uda|
-| Dismantle | Rozłóż | 
+
+| Weave | Tkaj | |
