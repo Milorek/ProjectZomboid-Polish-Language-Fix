@@ -781,13 +781,7 @@ RecipesPL = {
     Recipe_MakeSpadeHeadCudgel = "Make Spade Head Cudgel",
     
     
-    Recipe_MakePrimitiveScythe = "Make Primitive Scythe",
-    Recipe_MakeStoneAxeHead = "Make Stone Axe Head",
-    Recipe_MakeStoneChisel = "Knap Stone Chisel",
-    Recipe_MakeStoneDrill = "Knap Stone Drill",
-    Recipe_MakeStoneMaulHead = "Knap Stone Maul Head",
-    MakeStoneBlade = "Knap Stone Blade",
-    Recipe_MakeLongStoneBlade = "Knap Long Stone Blade",
+    
     
     Recipe_MakeBlockBludgeon = "Make Block Bludgeon",
     Recipe_MakeScrapKnife = "Make Scrap Metal Knife",
@@ -1213,6 +1207,23 @@ RecipesPL = {
 	MakeMirror = "Wytwórz lusterko",
 	MakeWineGlass = "Wytwórz kieliszek do wina",
 	
+	--Obróbka kamienia / kanapping 
+	MakeSharpFlintFlake = "Wytwórz ostry kamień",
+	Recipe_MakeLargeStoneAxeHead = "Wytwórz dużą kamienną głownię topora",
+	Recipe_MakeLongStoneBlade = "Wytwórz długie kamienne ostrze",
+	MakeStoneAwl = "Wytwórz szydło z kamienia",
+	MakeStoneBlade = "Wytwórz kamienne ostrze",
+	Recipe_MakeStoneBladeScythe = "Wytwórz kosę z kamiennym ostrzem",
+	Recipe_MakeStoneChisel = "Wytwórz kamienne dłuto",
+	Recipe_MakeStoneDrill = "Wytwórz kamiene wiertło",
+	Recipe_MakeStoneMaulHead = "Wytwórz kamienną głownie młota",
+	MakeStoneBladeSaw = "Wytwórz kamienną piłę",
+	RemakeLongStoneBlade = "Skróć długie kamienne ostrze",
+    
+    
+    
+    
+    
 	
 
 

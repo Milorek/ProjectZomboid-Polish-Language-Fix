@@ -24,6 +24,7 @@ Ten dokument zawiera ustandaryzowane nazwy, których używam w modyfikacji, aby 
 | Forged | Wykute | 
 | Handle | Rękojeść | |
 | Improvised | Prowizoryczne | |
+| Knapp | Wytwórz | |
 | Make | Wykonaj | |
 | Melt | Przetop | |
 | Precious | Cenne | |

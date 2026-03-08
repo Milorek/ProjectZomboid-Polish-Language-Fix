@@ -1841,7 +1841,7 @@ ItemName_PL = {
     ItemName_Base.Seaweed = "Wodorosty",
     ItemName_Base.SeedBag = "Torebka na nasiona",
     ItemName_Base.SewingKit = "Zestaw do szycia",
-    ItemName_Base.SharpedStone = "Kamień – zaostrzony",
+    
     ItemName_Base.Sheet = "Prześcieradło",
     ItemName_Base.SheetMetal = "Arkusz blachy",
     ItemName_Base.SheetPaper2 = "Kartka papieru",
@@ -2681,7 +2681,7 @@ ItemName_PL = {
 	
 	ItemName_Base.Awl = "Szydło",
     ItemName_Base.Awl_Bone = "Szydło z kości",
-    ItemName_Base.Awl_Stone = "Szydło z kamienia",
+    
     ItemName_Base.Axe_Old = "Siekiera",
     ItemName_Base.Axe_Sawblade = "Siekiera z piły",
     ItemName_Base.Axe_Sawblade_Hatchet = "Topór z piły",
@@ -3546,4 +3546,43 @@ ItemName_PL = {
 	ItemName_Base.HamRadioMakeShift = "Radiostacja własnej roboty",
     ItemName_Base.WalkieTalkieMakeShift = "Krótkofalówka własnej roboty",
 	ItemName_Base.TriggerCrafted = "Zdalny detonator",
+	
+	
+	
+	
+	--Obróbka kamienia / kanpping
+	ItemName_Base.SharpedStone = "Ostry kamień",
+	ItemName_Base.StoneAxeHead = "Duża kamienna głownia topora",
+	ItemName_Base.FlatStone = "Duży płaski kamień",
+	ItemName_Base.Awl_Stone = "Szydło z kamienia",
+	ItemName_Base.StoneChisel = "Kamienne dłuto",
+	ItemName_Base.StoneDrill = "Kamienne wiertło",
+	ItemName_Base.StoneMaulHead = "Kamienna głownia młota",
+	ItemName_Base.Saw_Flint = "Kamienna piła",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
